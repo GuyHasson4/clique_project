@@ -8,7 +8,7 @@ A web-based tool that helps community coordinators see which members need a chec
 
 **Prerequisites:** Node.js 18+ and npm 9+
 
-Full system requirements are listed in [`requirements.txt`](./requirements.txt).
+Full system requirements are listed in [`checkin-tool/requirements.txt`](./checkin-tool/requirements.txt).
 If you don't have Node.js installed, download it from [nodejs.org](https://nodejs.org/en/download) — npm is bundled with it.
 
 Navigate to the `checkin-tool` folder and run:
