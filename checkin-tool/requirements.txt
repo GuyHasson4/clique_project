@@ -1,0 +1,7 @@
+# System requirements for Clique Check-in Tool
+
+Node.js >= 18.0.0   https://nodejs.org/en/download
+npm    >= 9.0.0     (bundled with Node.js)
+
+# All project dependencies are listed in package.json and installed via:
+#   npm install
